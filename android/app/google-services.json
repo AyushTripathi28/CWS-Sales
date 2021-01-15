@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724786534186",
+    "firebase_url": "https://cwssales-907f5.firebaseio.com",
+    "project_id": "cwssales-907f5",
+    "storage_bucket": "cwssales-907f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724786534186:android:01fd5d0d45f372abfa7053",
+        "android_client_info": {
+          "package_name": "com.example.cwssales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724786534186-pjjsm7l0u2acim6rp651c62fkussv1uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cwssales",
+            "certificate_hash": "58c6730a53eb9e37d6c3938085c1b3160c6473a2"
+          }
+        },
+        {
+          "client_id": "724786534186-hkvitp116uqnrfhkm6v0qs1f1ee22o74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0yYGjzWMFEo5PYeMOkMtZxzim6gYPFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724786534186-hkvitp116uqnrfhkm6v0qs1f1ee22o74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
